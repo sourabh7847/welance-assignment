@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/welance-assignment/static/css/main.5c689a88.chunk.css",
+    "main.js": "/welance-assignment/static/js/main.ac1f7d1f.chunk.js",
+    "main.js.map": "/welance-assignment/static/js/main.ac1f7d1f.chunk.js.map",
+    "runtime-main.js": "/welance-assignment/static/js/runtime-main.6e90f68b.js",
+    "runtime-main.js.map": "/welance-assignment/static/js/runtime-main.6e90f68b.js.map",
+    "static/js/2.cb8d20b6.chunk.js": "/welance-assignment/static/js/2.cb8d20b6.chunk.js",
+    "static/js/2.cb8d20b6.chunk.js.map": "/welance-assignment/static/js/2.cb8d20b6.chunk.js.map",
+    "index.html": "/welance-assignment/index.html",
+    "static/css/main.5c689a88.chunk.css.map": "/welance-assignment/static/css/main.5c689a88.chunk.css.map",
+    "static/js/2.cb8d20b6.chunk.js.LICENSE.txt": "/welance-assignment/static/js/2.cb8d20b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e90f68b.js",
+    "static/js/2.cb8d20b6.chunk.js",
+    "static/css/main.5c689a88.chunk.css",
+    "static/js/main.ac1f7d1f.chunk.js"
+  ]
+}
